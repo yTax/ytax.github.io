@@ -38,7 +38,7 @@ const mobileAndTabletCheck = () => /Android|webOS|iPhone|iPad|iPod|BlackBerry|IE
 $(document).ready(() => {
   const links = [
     {
-      name: ' <-> steam <->    ',
+      name: ' « steam »     ',
       link: '76561198855854971',
     },
   ];
@@ -47,8 +47,9 @@ $(document).ready(() => {
     let link = links[i];
 
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
-    $('#marquee').append(`<a href="https://ogusers.com/clarke" target="_BLANK"> <-> ogusers <->     </a>`);
-    $('#marquee').append(`<a href="https://dsc.bio/clarke" target="_BLANK"> <-> discord <-> </a>`);
+    $('#marquee').append(`<a href="https://ogusers.com/clarke" target="_BLANK"> « ogusers »     </a>`);
+    $('#marquee').append(`<a href="https://github.com/yTax" target="_BLANK"> « github »     </a>`);
+    $('#marquee').append(`<a href="https://dsc.bio/clarke" target="_BLANK"> « discord »     </a>`);
 
     link = $('#marquee').children('a').last();
 
