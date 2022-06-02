@@ -16,8 +16,8 @@ Credits:
         h) http://picture-cdn.wheretoget.it/ot63b4-l-610x610-shirt-rose-tumblr-grunge-grunge+t+shirt-clothes-t+shirt-tumblr+shirt-dead+roses-black+bear-soft+grunge-soft-soft+ghetto-ghetto-chill-cute-white-red-red+roses-white+tee-pale-sad-dar.jpg
 
 Thanks for:
-    - Google
     - StackOverflow
+    - Google
     - jQuery
     - jQuery Marquee
     - animate.css
@@ -47,51 +47,51 @@ $(document).ready(() => {
     let link = links[i];
 
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
-    $('#marquee').append(`<a href="https://ogusers.com/clarke" target="_BLANK"> « ogusers »     </a>`);
+    $('#marquee').append(`<a href="https://ogu.gg/clarke" target="_BLANK"> « ogusers »     </a>`);
     $('#marquee').append(`<a href="https://github.com/yTax" target="_BLANK"> « github »     </a>`);
     $('#marquee').append(`<a href="https://dsc.bio/clarke" target="_BLANK"> « discord »     </a>`);
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
-    $('#marquee').append(`<a href="https://ogusers.com/clarke" target="_BLANK"> « ogusers »     </a>`);
+    $('#marquee').append(`<a href="https://ogu.gg/clarke" target="_BLANK"> « ogusers »     </a>`);
     $('#marquee').append(`<a href="https://github.com/yTax" target="_BLANK"> « github »     </a>`);
     $('#marquee').append(`<a href="https://dsc.bio/clarke" target="_BLANK"> « discord »     </a>`);
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
-    $('#marquee').append(`<a href="https://ogusers.com/clarke" target="_BLANK"> « ogusers »     </a>`);
+    $('#marquee').append(`<a href="https://ogu.gg/clarke" target="_BLANK"> « ogusers »     </a>`);
     $('#marquee').append(`<a href="https://github.com/yTax" target="_BLANK"> « github »     </a>`);
     $('#marquee').append(`<a href="https://dsc.bio/clarke" target="_BLANK"> « discord »     </a>`);
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
-    $('#marquee').append(`<a href="https://ogusers.com/clarke" target="_BLANK"> « ogusers »     </a>`);
+    $('#marquee').append(`<a href="https://ogu.gg/clarke" target="_BLANK"> « ogusers »     </a>`);
     $('#marquee').append(`<a href="https://github.com/yTax" target="_BLANK"> « github »     </a>`);
     $('#marquee').append(`<a href="https://dsc.bio/clarke" target="_BLANK"> « discord »     </a>`);
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
-    $('#marquee').append(`<a href="https://ogusers.com/clarke" target="_BLANK"> « ogusers »     </a>`);
+    $('#marquee').append(`<a href="https://ogu.gg/clarke" target="_BLANK"> « ogusers »     </a>`);
     $('#marquee').append(`<a href="https://github.com/yTax" target="_BLANK"> « github »     </a>`);
     $('#marquee').append(`<a href="https://dsc.bio/clarke" target="_BLANK"> « discord »     </a>`);
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
-    $('#marquee').append(`<a href="https://ogusers.com/clarke" target="_BLANK"> « ogusers »     </a>`);
+    $('#marquee').append(`<a href="https://ogu.gg/clarke" target="_BLANK"> « ogusers »     </a>`);
     $('#marquee').append(`<a href="https://github.com/yTax" target="_BLANK"> « github »     </a>`);
     $('#marquee').append(`<a href="https://dsc.bio/clarke" target="_BLANK"> « discord »     </a>`);
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
-    $('#marquee').append(`<a href="https://ogusers.com/clarke" target="_BLANK"> « ogusers »     </a>`);
+    $('#marquee').append(`<a href="https://ogu.gg/clarke" target="_BLANK"> « ogusers »     </a>`);
     $('#marquee').append(`<a href="https://github.com/yTax" target="_BLANK"> « github »     </a>`);
     $('#marquee').append(`<a href="https://dsc.bio/clarke" target="_BLANK"> « discord »     </a>`);
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
-    $('#marquee').append(`<a href="https://ogusers.com/clarke" target="_BLANK"> « ogusers »     </a>`);
+    $('#marquee').append(`<a href="https://ogu.gg/clarke" target="_BLANK"> « ogusers »     </a>`);
     $('#marquee').append(`<a href="https://github.com/yTax" target="_BLANK"> « github »     </a>`);
     $('#marquee').append(`<a href="https://dsc.bio/clarke" target="_BLANK"> « discord »     </a>`);
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
-    $('#marquee').append(`<a href="https://ogusers.com/clarke" target="_BLANK"> « ogusers »     </a>`);
+    $('#marquee').append(`<a href="https://ogu.gg/clarke" target="_BLANK"> « ogusers »     </a>`);
     $('#marquee').append(`<a href="https://github.com/yTax" target="_BLANK"> « github »     </a>`);
     $('#marquee').append(`<a href="https://dsc.bio/clarke" target="_BLANK"> « discord »     </a>`);
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
-    $('#marquee').append(`<a href="https://ogusers.com/clarke" target="_BLANK"> « ogusers »     </a>`);
+    $('#marquee').append(`<a href="https://ogu.gg/clarke" target="_BLANK"> « ogusers »     </a>`);
     $('#marquee').append(`<a href="https://github.com/yTax" target="_BLANK"> « github »     </a>`);
     $('#marquee').append(`<a href="https://dsc.bio/clarke" target="_BLANK"> « discord »     </a>`);
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
-    $('#marquee').append(`<a href="https://ogusers.com/clarke" target="_BLANK"> « ogusers »     </a>`);
+    $('#marquee').append(`<a href="https://ogu.gg/clarke" target="_BLANK"> « ogusers »     </a>`);
     $('#marquee').append(`<a href="https://github.com/yTax" target="_BLANK"> « github »     </a>`);
     $('#marquee').append(`<a href="https://dsc.bio/clarke" target="_BLANK"> « discord »     </a>`);
     $('#marquee').append(`<a href="https://steamcommunity.com/profiles/${link.link}" target="_BLANK">${link.name}</a>`);
-    $('#marquee').append(`<a href="https://ogusers.com/clarke" target="_BLANK"> « ogusers »     </a>`);
+    $('#marquee').append(`<a href="https://ogu.gg/clarke" target="_BLANK"> « ogusers »     </a>`);
     $('#marquee').append(`<a href="https://github.com/yTax" target="_BLANK"> « github »     </a>`);
     $('#marquee').append(`<a href="https://dsc.bio/clarke" target="_BLANK"> « discord »     </a>`);
       
